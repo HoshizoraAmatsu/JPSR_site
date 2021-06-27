@@ -1,0 +1,21 @@
+.body
+{
+    margin: 0;
+    background-image: url('images/bg.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main
+{
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+    width: 70%;
+}
+
+main p
+{
+    font-size: 17px;
+}
