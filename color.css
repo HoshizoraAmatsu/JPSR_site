@@ -1,21 +1,19 @@
-.body
+.navbar-color
 {
-    margin: 0;
+    background-color: rgb(29, 18, 126);
+}
+
+.bg-img
+{
     background-image: url('images/bg.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
-.main
+canvas
 {
-    margin: auto;
-    padding: 10px;
-    background-color: white;
-    width: 70%;
-}
-
-main p
-{
-    font-size: 17px;
+    background: white;
+    display: block;
+    margin: 0 auto;
 }
