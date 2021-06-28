@@ -15,3 +15,16 @@
 {
     text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
 }
+
+.post
+{
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+}
+
+.footer-text
+{
+    text-align: center;
+    color: white;
+}
